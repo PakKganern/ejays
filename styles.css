@@ -10,12 +10,12 @@ body {
     margin-top: 100px;
     width: 30%;
     padding: 20px;
-    border: 1px solid black;
+    border: 1px solid green;
     border-radius: 10px;
 }
 
 .title {
-    text-decoration-color: aqua; 
+    text-decoration-color: yellow; 
     text-align: center;
     font-weight: bold;
     margin-bottom: 20px;
@@ -27,7 +27,7 @@ body {
     font-size: 1.2em;
     margin-bottom: 20px;
     padding: 10px;
-    border: 1px solid black;
+    border: 1px solid red;
     border-radius: 5px;
     width: 100%;
 }
